@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+img{
+    display: block;
+    margin-bottom: 12.5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12.5%;
+}
+img:hover{
+    background-color: rgb(178, 126, 226);
+}
